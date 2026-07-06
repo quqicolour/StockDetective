@@ -1,0 +1,150 @@
+{
+  "generated_at": "2026-07-06T17:16:10",
+  "strategy": "概念板块匹配 + 名称关键词二次扫描",
+  "matched_concepts": [
+    "半导体",
+    "国产芯片",
+    "存储芯片",
+    "数字经济",
+    "芯片"
+  ],
+  "counts": {
+    "total": 5,
+    "with_quote": 3,
+    "without_quote": 2
+  },
+  "stocks": [
+    {
+      "code": "603986",
+      "name": "兆易创新",
+      "price": 120.5,
+      "change_pct": 2.5,
+      "change_pct_disp": "+2.50%",
+      "pe": 65.4,
+      "pb": 4.2,
+      "turnover_pct": 2.5,
+      "total_mcap_yi": 800.5,
+      "total_mcap_disp": "800.50 亿",
+      "amount_disp": null,
+      "mcap_rank": 1,
+      "concepts": [
+        "存储芯片",
+        "半导体",
+        "芯片",
+        "国产芯片"
+      ]
+    },
+    {
+      "code": "300223",
+      "name": "北京君正",
+      "price": 75.3,
+      "change_pct": -1.2,
+      "change_pct_disp": "-1.20%",
+      "pe": 80.1,
+      "pb": 3.8,
+      "turnover_pct": 1.8,
+      "total_mcap_yi": 320.0,
+      "total_mcap_disp": "320.00 亿",
+      "amount_disp": null,
+      "mcap_rank": 2,
+      "concepts": [
+        "存储芯片",
+        "芯片",
+        "数字经济"
+      ]
+    },
+    {
+      "code": "300042",
+      "name": "朗科科技",
+      "price": 18.5,
+      "change_pct": 0.0,
+      "change_pct_disp": "0.00%",
+      "pe": 50.0,
+      "pb": 2.1,
+      "turnover_pct": 0.5,
+      "total_mcap_yi": 30.0,
+      "total_mcap_disp": "30.00 亿",
+      "amount_disp": null,
+      "mcap_rank": 3,
+      "concepts": [
+        "数字经济"
+      ]
+    },
+    {
+      "code": "600460",
+      "name": "",
+      "price": null,
+      "change_pct": null,
+      "change_pct_disp": null,
+      "pe": null,
+      "pb": null,
+      "turnover_pct": null,
+      "total_mcap_yi": null,
+      "total_mcap_disp": null,
+      "amount_disp": null,
+      "mcap_rank": null,
+      "concepts": [
+        "半导体",
+        "芯片"
+      ]
+    },
+    {
+      "code": "002371",
+      "name": "",
+      "price": null,
+      "change_pct": null,
+      "change_pct_disp": null,
+      "pe": null,
+      "pb": null,
+      "turnover_pct": null,
+      "total_mcap_yi": null,
+      "total_mcap_disp": null,
+      "amount_disp": null,
+      "mcap_rank": null,
+      "concepts": [
+        "半导体"
+      ]
+    }
+  ],
+  "top_lists": {
+    "by_total_mcap": [
+      {
+        "rank": 1,
+        "code": "603986",
+        "name": "兆易创新",
+        "total_mcap_disp": "800.50 亿",
+        "pe": 65.4,
+        "change_pct_disp": "+2.50%",
+        "concepts": [
+          "存储芯片",
+          "半导体",
+          "芯片"
+        ]
+      },
+      {
+        "rank": 2,
+        "code": "300223",
+        "name": "北京君正",
+        "total_mcap_disp": "320.00 亿",
+        "pe": 80.1,
+        "change_pct_disp": "-1.20%",
+        "concepts": [
+          "存储芯片",
+          "芯片",
+          "数字经济"
+        ]
+      },
+      {
+        "rank": 3,
+        "code": "300042",
+        "name": "朗科科技",
+        "total_mcap_disp": "30.00 亿",
+        "pe": 50.0,
+        "change_pct_disp": "0.00%",
+        "concepts": [
+          "数字经济"
+        ]
+      }
+    ]
+  }
+}
